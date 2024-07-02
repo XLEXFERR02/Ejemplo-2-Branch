@@ -10,3 +10,5 @@ Documentacion #3 desde GitHub
 Documentacion #4 desde Branch DEV1
 
 Julio 1 - tema: historial repo - cambio #3
+
+Julio 1 - tema: issue - cambio #5
